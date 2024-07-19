@@ -3,8 +3,8 @@
 <!--
 **Amarta113/Amarta113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi 👋, I'm AmartaWaghani</h1>
-<h3 align="center">Artificial intelligence enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Amarta Waghani</h1>
+<h3 align="center">A Computer Science Student and Artificial Intelligence Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarta113&label=Profile%20views&color=0e75b6&style=flat" alt="amarta113" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Artificial intelligence, Machine Learning,NLP**
 
-- 👯 I’m looking to collaborate on **Deeplearning, NLP**
+- 👯 I’m looking to collaborate on **DeepLearning, NLP**
 
 - 💬 Ask me about **Python, Java, AI, ML**
 
