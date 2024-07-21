@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Amarta113/Amarta113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
