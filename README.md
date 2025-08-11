@@ -7,15 +7,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarta113&label=Profile%20views&color=0e75b6&style=flat" alt="amarta113" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarta113" alt="amarta113" /></a> </p>
+I love building intelligent, lightweight, and production-ready applications from **RAG-based chatbots** to **AI-powered automation tools (still working)**. My focus is on solving real-world problems with clean, efficient, and scalable code.
 
-- 🔭 I’m currently working on **Artificial Intelligence**
+---
 
-- 🌱 I’m currently learning **Artificial intelligence, Machine Learning,NLP**
+## 🛠️ Tech Stack & Skills
+- **Languages:** Python, TypeScript, JavaScript, React (still learning..)  
+- **AI/ML:** Retrieval-Augmented Generation (RAG), LangChain, Hugging Face, Sentiment Analysis, NLP, Langchain  
+- **Backend:** FastAPI, Node.js, Express.js (learning REST APIs & auth)  
+- **Databases:** ChromaDB, Qdrant, MongoDB, SQL  
+- **Other Tools:** Docker, Streamlit  
 
-- 👯 I’m looking to collaborate on **DeepLearning, NLP**
-
-- 💬 Ask me about **Python, Java, AI, ML**
+---
 
 - 📫 How to reach me **amartawaghani@gmail.com**
 
