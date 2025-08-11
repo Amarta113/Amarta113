@@ -9,7 +9,7 @@
 
 I love building intelligent, lightweight, and production-ready applications from **RAG-based chatbots** to **AI-powered automation tools (still working)**. My focus is on solving real-world problems with clean, efficient, and scalable code.
 
----
+
 
 ## 🛠️ Tech Stack & Skills
 - **Languages:** Python, TypeScript, JavaScript, React (still learning..)  
@@ -18,7 +18,7 @@ I love building intelligent, lightweight, and production-ready applications from
 - **Databases:** ChromaDB, Qdrant, MongoDB, SQL  
 - **Other Tools:** Docker, Streamlit  
 
----
+
 
 - 📫 How to reach me **amartawaghani@gmail.com**
 
