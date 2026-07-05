@@ -3,11 +3,11 @@
 **Amarta113/Amarta113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hi 👋, I'm Amarta Waghani</h1>
-<h3 align="center">A Computer Science Student and Artificial Intelligence Enthusiast</h3>
+<h3 align="center">A Computer Science Student and Artificial Intelligence Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarta113&label=Profile%20views&color=0e75b6&style=flat" alt="amarta113" /> </p>
 
-I love building intelligent, lightweight, and production-ready applications from **RAG-based chatbots** to **AI-powered automation tools (still working)**. My focus is on solving real-world problems with clean, efficient, and scalable code.
+I love building intelligent, lightweight, and production-ready applications from **RAG-based chatbots** to **AI-powered automation tools**. My focus is on solving real-world problems with clean, efficient, and scalable code.
 
 
 
