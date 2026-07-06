@@ -14,7 +14,7 @@ I love building intelligent, lightweight, and production-ready applications from
 ## 🛠️ Tech Stack & Skills
 - **Languages:** Python, TypeScript, JavaScript, React 
 - **AI/ML:** Retrieval-Augmented Generation (RAG), LangChain, Hugging Face, Sentiment Analysis, NLP, Langchain  
-- **Backend:** FastAPI, Node.js, Express.js (learning REST APIs & auth)  
+- **Backend:** FastAPI, Node.js, Express.js (building REST APIs & authentication systems)  
 - **Databases:** ChromaDB, Qdrant, MongoDB, SQL  
 - **Other Tools:** Docker, Streamlit  
 
