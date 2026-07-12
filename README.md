@@ -7,16 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarta113&label=Profile%20views&color=0e75b6&style=flat" alt="amarta113" /> </p>
 
-I love building intelligent, lightweight, and production-ready applications from **RAG-based chatbots** to **AI-powered automation tools**. My focus is on solving real-world problems with clean, efficient, and scalable code.
+I love building lightweight, and production-ready fullstack applications from Web application to **RAG-based chatbots** and **AI-powered automation tools**. My focus is on solving real-world problems with clean, efficient, and scalable code.
 
 
 
 ## 🛠️ Tech Stack & Skills
-- **Languages:** Python, TypeScript, JavaScript, React 
+- **Languages:** Python, TypeScript, JavaScript, React.js, Next.js 
 - **AI/ML:** Retrieval-Augmented Generation (RAG), LangChain, Hugging Face, Sentiment Analysis, NLP, Langchain  
 - **Backend:** FastAPI, Node.js, Express.js (building REST APIs & authentication systems)  
 - **Databases:** ChromaDB, Qdrant, MongoDB, SQL  
-- **Other Tools:** Docker, Streamlit  
+- **Other Tools:** Docker, Streamlit, Tailwindcss  
 
 
 
